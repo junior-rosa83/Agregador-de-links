@@ -1,4 +1,4 @@
-<h1 align="center"> Primeiro Projeto </h1>
+<h1 align="center"> Agregador de links </h1>
 
 <p align="center">
 Este é o meu primeiro projeto
